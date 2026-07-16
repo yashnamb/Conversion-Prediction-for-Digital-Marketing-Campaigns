@@ -1,0 +1,13 @@
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+
+# Saved models
+*.pkl
+
+# OS
+.DS_Store
+Thumbs.db
